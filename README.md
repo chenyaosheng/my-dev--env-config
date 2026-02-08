@@ -6,3 +6,4 @@ my personal configuration files and deloyment scripts  for vps
 - Services: 1paner.cova.dpdns.org
 - connect to us panel: 3xui.cova.dpdns.org
 - connect to us panel: sui.cova.dpdns.org
+- subconver services: subconver.cova.dpdns.org/
