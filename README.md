@@ -8,3 +8,4 @@ my personal configuration files and deloyment scripts  for vps
 - connect to us panel: sui.cova.dpdns.org
 - vless reality  also 
 - subconver services: subconver.cova.dpdns.org/
+Added from my OnePlus 9R Termux
