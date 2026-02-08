@@ -9,3 +9,4 @@ my personal configuration files and deloyment scripts  for vps
 - vless reality  also 
 - subconver services: subconver.cova.dpdns.org/
 Added from my OnePlus 9R Termux
+## I already use oneplus 9r edit my-dev--env-config success
